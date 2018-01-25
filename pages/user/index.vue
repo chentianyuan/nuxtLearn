@@ -1,7 +1,7 @@
 <template>
   <div>
       <h1>
-          <nuxt-link to="/">backtoindex</nuxt-link>
+          <nuxt-link to="/user/13">backtoindex</nuxt-link>
       </h1>
   </div>
 </template>
